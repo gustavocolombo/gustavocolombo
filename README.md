@@ -16,10 +16,7 @@ While trying to learn more about the technologies I know, I am learning and deve
 ### Other techs and Frameworks :computer: 
 
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
-https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
