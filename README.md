@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Gustavo 👋
 
 ### About me 🤔
 
@@ -8,15 +8,10 @@ While trying to learn more about the technologies I know, I am learning and deve
 
 ### Technologies and Frameworks :computer:
 
--Front-end with React.Js and Next.Js
--Back-end with Node.js and Typescript
--Database with Postgresql, SQLite, MySQL, MongoDB
--Package management with Yarn, npm
-
-### Other techs and Frameworks :computer: 
-
-https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-
+- Front-end with React.Js and Next.Js
+- Back-end with Node.js and Typescript
+- Database with Postgresql, SQLite, MySQL, MongoDB
+- Package management with Yarn, npm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
