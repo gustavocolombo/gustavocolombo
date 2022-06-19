@@ -6,12 +6,18 @@ I am majoring in Software Engineering at the Federal University of Ceará and I 
 and I am looking for opportunities to work in companies / projects.
 While trying to learn more about the technologies I know, I am learning and developing front-end projects at Next.Js.
 
-## Technologies and Frameworks :computer:
+<!--## Technologies and Frameworks :computer:
 
 - Front-end with React.Js and Next.Js
 - Back-end with Node.js and Typescript
 - Database with Postgresql, SQLite, MySQL, MongoDB
 - Package management with Yarn, npm
+-->
+
+<h1 align="center"> Overview sobre meu Git</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=gustavocolombo&show_icons=true&theme=tokyonight" width="430" align="left" alt="gustavocolombo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocolombo&layout=compact&theme=tokyonight" width="350" align="right" alt="gustavocolombo" />
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Contact me 💬
 
