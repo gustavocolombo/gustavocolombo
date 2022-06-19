@@ -25,4 +25,3 @@ While trying to learn more about the technologies I know, I am learning and deve
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-colombo-9940011a6/)](https://www.linkedin.com/in/gustavo-colombo-9940011a6/)
 [![Gmail Badge](https://img.shields.io/badge/-gusttavocolombo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusttavocolombo@gmail.com)](mailto:gusttavocolombo@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
