@@ -2,9 +2,7 @@
 
 ## About me 🤔
 
-I am majoring in Software Engineering at the Federal University of Ceará and I have been working in the technology area since 2017, first learning the basics of programming such as HTML, CSS and JavaScript. Nowadays I am a FullStack React.Js and Node.js developer
-and I am looking for opportunities to work in companies / projects.
-While trying to learn more about the technologies I know, I am learning and developing front-end projects at Next.Js.
+Hi, I am a back-end developer graduated from the Federal University of Ceará. My area of ​​expertise is Node.Js but I have worked with different programming languages ​​such as PHP and Java. I have also worked with several technologies, tools and methodologies such as ORMs, relational and non-relational databases, Docker, AWS cloud services, etc. I am trying to improve my skills every day and in this profile you can follow my published studies.
 
 <!--## Technologies and Frameworks :computer:
 
